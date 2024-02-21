@@ -13,3 +13,18 @@ D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\refint\ReversedSumList.
 D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.pdb
 D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.genruntimeconfig.cache
 D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ref\ReversedSumList.dll
+C:\Siana 9A\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.exe
+C:\Siana 9A\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.deps.json
+C:\Siana 9A\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.runtimeconfig.json
+C:\Siana 9A\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.dll
+C:\Siana 9A\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.pdb
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.AssemblyInfoInputs.cache
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.AssemblyInfo.cs
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.csproj.CoreCompileInputs.cache
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.sourcelink.json
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.dll
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\refint\ReversedSumList.dll
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.pdb
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.genruntimeconfig.cache
+C:\Siana 9A\MishoProject\ReversedSumList\obj\Debug\net8.0\ref\ReversedSumList.dll
